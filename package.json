@@ -1,0 +1,25 @@
+{
+  "name": "push-notifications-demo",
+  "version": "1.0.0",
+  "description": "Implementation of web push notification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniket1897/push-notifications-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniket1897/push-notifications-demo/issues"
+  },
+  "homepage": "https://github.com/aniket1897/push-notifications-demo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "web-push": "^3.4.5"
+  }
+}
